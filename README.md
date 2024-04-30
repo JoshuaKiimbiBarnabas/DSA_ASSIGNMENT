@@ -1,5 +1,4 @@
 # DSA_ASSIGNMENT
-DSA2Assignment
-222009632 Mubita M Gift
-220056137 Kiimbi BK
-217090893 IIyambo David K
+# 222009632 Mubita M Gift
+# 220056137 Kiimbi BK
+# 217090893 Iiyambo David
